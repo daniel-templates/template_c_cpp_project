@@ -10,7 +10,7 @@ REPO:   template_c_cpp_project
 -->
 
 
-# [![GitHub Organization][icon_daniel-templates]][home_daniel-templates]  template_c_cpp_project
+# [![daniel-templates/][icon_daniel-templates]][home_daniel-templates]  template_c_cpp_project
 
 <!-- TODO: Edit description. -->
 ##### A base template for C and C++ projects. Other project templates can be found at [daniel-templates][home_daniel-templates].
